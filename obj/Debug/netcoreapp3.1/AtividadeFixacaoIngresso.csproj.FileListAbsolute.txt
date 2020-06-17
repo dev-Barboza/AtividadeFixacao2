@@ -1,0 +1,13 @@
+C:\Users\maheu\Documents\AtividadeFixacaoIngresso\bin\Debug\netcoreapp3.1\AtividadeFixacaoIngresso.exe
+C:\Users\maheu\Documents\AtividadeFixacaoIngresso\bin\Debug\netcoreapp3.1\AtividadeFixacaoIngresso.deps.json
+C:\Users\maheu\Documents\AtividadeFixacaoIngresso\bin\Debug\netcoreapp3.1\AtividadeFixacaoIngresso.runtimeconfig.json
+C:\Users\maheu\Documents\AtividadeFixacaoIngresso\bin\Debug\netcoreapp3.1\AtividadeFixacaoIngresso.runtimeconfig.dev.json
+C:\Users\maheu\Documents\AtividadeFixacaoIngresso\bin\Debug\netcoreapp3.1\AtividadeFixacaoIngresso.dll
+C:\Users\maheu\Documents\AtividadeFixacaoIngresso\bin\Debug\netcoreapp3.1\AtividadeFixacaoIngresso.pdb
+C:\Users\maheu\Documents\AtividadeFixacaoIngresso\obj\Debug\netcoreapp3.1\AtividadeFixacaoIngresso.csprojAssemblyReference.cache
+C:\Users\maheu\Documents\AtividadeFixacaoIngresso\obj\Debug\netcoreapp3.1\AtividadeFixacaoIngresso.csproj.CoreCompileInputs.cache
+C:\Users\maheu\Documents\AtividadeFixacaoIngresso\obj\Debug\netcoreapp3.1\AtividadeFixacaoIngresso.AssemblyInfoInputs.cache
+C:\Users\maheu\Documents\AtividadeFixacaoIngresso\obj\Debug\netcoreapp3.1\AtividadeFixacaoIngresso.AssemblyInfo.cs
+C:\Users\maheu\Documents\AtividadeFixacaoIngresso\obj\Debug\netcoreapp3.1\AtividadeFixacaoIngresso.dll
+C:\Users\maheu\Documents\AtividadeFixacaoIngresso\obj\Debug\netcoreapp3.1\AtividadeFixacaoIngresso.pdb
+C:\Users\maheu\Documents\AtividadeFixacaoIngresso\obj\Debug\netcoreapp3.1\AtividadeFixacaoIngresso.genruntimeconfig.cache
